@@ -2,7 +2,8 @@
 read -p 'Enter password length: ' PASS_LENGTH
 for ITERABLE in {1..$PASS_LENGTH}
 do
-    cat ./gs.sh :PASSWORD
+    cat ./gs.sh 
+    read PASSWORD
 done
 echo $PASSWORD
 
