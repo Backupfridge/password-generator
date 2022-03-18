@@ -3,7 +3,7 @@ simple shot password generator made in bash. free to modify and share but you mu
 
 gs.sh = generates random text.
 
-start.sh = runs gs.sh and outputs random text to terminal and a little "passwords generated.
+start.sh = runs gs.sh and outputs random text to terminal and a little "passwords generated".
 
 NOTE: I DO NOT USE THIS TO MAKE MY OWN LOGINS
 
