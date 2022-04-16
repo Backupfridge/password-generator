@@ -1,7 +1,9 @@
 #!/bin/bash
 
 echo ""
-./gs.sh && ./gs.sh && ./gs.sh && ./gs.sh && ./gs.sh && ./gs.sh && ./gs.sh && ./gs.sh && ./gs.sh && ./gs.sh && ./gs.sh && ./gs.sh && ./gs.sh && ./gs.sh && ./gs.sh && ./gs.sh && ./gs.sh && ./gs.sh && ./gs.sh && ./gs.sh
+for (( i=0; i<20; ++i)); do
+    ./gs.sh
+done
 echo ""
 echo "Random passwords generated!"
 echo ""
