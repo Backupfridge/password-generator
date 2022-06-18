@@ -4,7 +4,7 @@ simple password generator made in bash. free to modify and share but you must gi
 NOTE: I DO NOT USE THIS TO MAKE MY OWN LOGINS
 
 ---------------------------
-how to run:
+How to run:
 
 1. download code
 2. unzip
