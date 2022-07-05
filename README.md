@@ -11,5 +11,6 @@ How to run:
 3. open terminal to the DIR of the files
 4. make sure you set permissions of the files "PasswordGen.sh" to be executable
 5. run "./PasswordGen.sh" in terminal without qoutes
+6. enter the number of how long you want your password to be
 6. copy a random generated line and use that as password  
 7. done
