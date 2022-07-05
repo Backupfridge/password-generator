@@ -14,3 +14,4 @@ How to run:
 6. enter the number of how long you want your password to be
 6. copy a random generated line and use that as password  
 7. done
+test
