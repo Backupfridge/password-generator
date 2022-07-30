@@ -18,3 +18,5 @@ done
 echo ""
 echo "Passwords Generated"
 echo ""
+PAD=SFL1
+CHARS=LMAO
