@@ -18,5 +18,7 @@ done
 echo ""
 echo "Passwords Generated"
 echo ""
+#changing vaules for safety
 PAD=SFL1
 CHARS=LMAO
+#sfl means safety feature lol
